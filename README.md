@@ -1,2 +1,4 @@
 # zoom-jwt-node
-integracion con api de zoom
+Integracion con la api de zoom
+
+correr comando para utilizar todos los paquetes *npm i express https nodemon request *
