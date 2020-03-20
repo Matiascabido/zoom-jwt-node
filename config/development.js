@@ -1,8 +1,8 @@
 module.exports = {
 
     zoom:{
-        api_key :"prsP59fTTlyMb2fDp_1M7A",
-        api_secret : 'eCtDC2dXV4NBAKjKQzB7PWayZPcBocIOPabm',
+        api_key :'',
+        api_secret : '',
         fecha_exp : new Date(new Date().getTime() + 60 * 60 * 24 * 1000),
         settings : {
             "topic": "Consulta Medica",
